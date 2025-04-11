@@ -1,1 +1,129 @@
-[{"id":"1","nome":"Livro irado"},{"id":"3","nome":"Livro muito legal 2"}]
+[
+    {
+      "nome": "Auto da Compadecida",
+      "id": 1,
+      "sinopse": "Misturando comédia, drama e elementos do teatro popular nordestino, Auto da Compadecida acompanha as aventuras de João Grilo e Chicó, dois sertanejos astutos que usam a esperteza para sobreviver no sertão. A história culmina em um julgamento celestial, onde a Compadecida (Nossa Senhora) intercede pelos protagonistas diante de Deus. A peça aborda temas como justiça, fé e esperteza com humor e crítica social.",
+      "autor": "Ariano Suassuna, 1955",
+      "imagem": "https://m.media-amazon.com/images/I/71uib6VyNeL._SL1000_.jpg"
+    },
+    {
+      "nome": "Harry Potter e a Pedra Filosofal",
+      "id": 2,
+      "sinopse": "Harry Potter descobre, aos 11 anos, que é um bruxo e recebe um convite para estudar na Escola de Magia e Bruxaria de Hogwarts. Lá, ele faz amizades, aprende feitiços e desvenda segredos sobre sua própria história. Enquanto se adapta ao mundo mágico, Harry se depara com um mistério envolvendo a Pedra Filosofal e o temido bruxo das trevas, Lord Voldemort.",
+      "autor": "J.K. Rowling, 1997",
+      "imagem": "https://m.media-amazon.com/images/I/81iqZ2HHD-L.jpg"
+    },
+    {
+      "nome": "O Hobbit",
+      "id": 3,
+      "sinopse": "Bilbo Bolseiro é um hobbit pacato que gosta de sua vida tranquila no Condado. No entanto, sua rotina muda quando o mago Gandalf e um grupo de anões o recrutam para uma jornada épica. Sua missão é ajudar a recuperar o tesouro guardado pelo temível dragão Smaug. Durante a aventura, Bilbo encontra a criatura Gollum e descobre um anel mágico que se tornará crucial para o futuro da Terra Média.",
+      "autor": "J.R.R. Tolkien, 1937",
+      "imagem":"https://m.media-amazon.com/images/I/91M9xPIf10L._SL1500_.jpg"
+    },
+    {
+      "nome": "Pequeno Príncipe",
+      "id": 4,
+      "sinopse": "Um aviador cai no deserto do Saara e conhece um menino enigmático, o Pequeno Príncipe. Vindo de um asteroide distante, o garoto conta histórias sobre suas viagens por diversos planetas e as lições que aprendeu, refletindo sobre a essência da vida, o amor e a amizade. A narrativa poética traz reflexões profundas sobre a simplicidade e o significado da existência.",
+      "autor": "Antoine de Saint-Exupéry, 1943",
+      "imagem": "https://m.media-amazon.com/images/I/91cuVFh3BsL._SL1500_.jpg"
+    },
+    {
+      "nome": "O Código Da Vinci",
+      "id": 5,
+      "sinopse": "O professor Robert Langdon e a criptógrafa Sophie Neveu embarcam em uma investigação após um assassinato misterioso no Museu do Louvre. Ao decifrar símbolos e enigmas, eles descobrem uma conspiração ligada ao Santo Graal e à Igreja Católica. Perseguidos por uma organização secreta, precisam desvendar segredos ocultos na história da arte e da religião antes que seja tarde demais.",
+      "autor": "Dan Brown, 2003",
+      "imagem":"https://m.media-amazon.com/images/I/710DjekSUkL._AC_UL320_.jpg"
+    },
+    {
+      "nome": "1984",
+      "id": 6,
+      "sinopse": "Em um mundo distópico governado pelo Grande Irmão, Winston Smith trabalha para o governo, mas começa a questionar a sociedade opressora em que vive. Em busca da verdade e da liberdade, ele desafia o sistema, mas logo descobre que a vigilância e o controle são mais severos do que imaginava.",
+      "autor": "George Orwell, 1949",
+      "imagem": "https://m.media-amazon.com/images/I/819js3EQwbL._SL1500_.jpg"
+    },
+    {
+      "nome": "Dom Casmurro",
+      "id": 7,
+      "sinopse": "Bento Santiago, conhecido como Dom Casmurro, narra sua história de amor com Capitu, marcada pelo ciúme e pela dúvida sobre sua fidelidade. O romance, escrito em primeira pessoa, envolve o leitor em reflexões sobre a memória, a verdade e a traição.",
+      "autor": "Machado de Assis, 1899",
+      "imagem": "https://m.media-amazon.com/images/I/61Z2bMhGicL._SY425_.jpg"
+    },
+    {
+      "nome": "Percy Jackson e o Ladrão de Raios",
+      "id": 8,
+      "sinopse": "Percy Jackson descobre que é um semideus, filho de Poseidon, e é levado ao Acampamento Meio-Sangue. Quando o raio-mestre de Zeus é roubado, Percy e seus amigos embarcam em uma jornada perigosa para recuperá-lo e evitar uma guerra entre os deuses do Olimpo.",
+      "autor": "Rick Riordan, 2005",
+      "imagem": "https://m.media-amazon.com/images/I/91WN6a6F3RL._SL1500_.jpg"
+    },
+    {
+      "nome": "O Senhor dos Anéis: A Sociedade do Anel",
+      "id": 9,
+      "sinopse": "Frodo Bolseiro recebe um anel poderoso e perigoso, que precisa ser destruído para impedir que caia nas mãos do maligno Sauron. Junto com seus companheiros, ele inicia uma jornada épica até a Montanha da Perdição, enfrentando desafios e perigos pelo caminho.",
+      "autor": "J.R.R. Tolkien, 1954",
+      "imagem": "https://m.media-amazon.com/images/I/81hCVEC0ExL._SY342_.jpg"
+    },
+    {
+      "nome": "A Menina que Roubava Livros",
+      "id": 10,
+      "sinopse": "Durante a Segunda Guerra Mundial, Liesel Meminger encontra consolo nos livros que rouba e compartilha com os outros. Sua história é narrada pela própria Morte, que acompanha de perto o destino da garota em meio aos horrores do nazismo.",
+      "autor": "Markus Zusak, 2005",
+      "imagem": "https://m.media-amazon.com/images/I/61L+4OBhm-L._SL1000_.jpg"
+    },
+    {
+      "nome": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
+      "id": 11,
+      "sinopse": "Quatro irmãos descobrem um portal para o mundo mágico de Nárnia através de um guarda-roupa. Lá, eles se juntam ao leão Aslan para lutar contra a malvada Feiticeira Branca e restaurar a paz no reino.",
+      "autor": "C.S. Lewis, 1950",
+      "imagem": "https://m.media-amazon.com/images/I/81SUffBcwpL._SY342_.jpg"
+    },
+    {
+      "nome": "Sherlock Holmes: Um Estudo em Vermelho",
+      "id": 12,
+      "sinopse": "O detetive Sherlock Holmes e seu parceiro, Dr. Watson, investigam um misterioso assassinato em Londres, utilizando métodos dedutivos inovadores.",
+      "autor": "Arthur Conan Doyle, 1887",
+      "imagem": "https://m.media-amazon.com/images/I/61GFsO7j0ZL._SY342_.jpg"
+    },
+    {
+      "nome": "O Morro dos Ventos Uivantes",
+      "id": 13,
+      "sinopse": "A intensa e trágica história de amor entre Heathcliff e Catherine, marcada por vingança e obsessão, em meio à atmosfera sombria das charnecas inglesas.",
+      "autor": "Emily Brontë, 1847",
+      "imagem": "https://m.media-amazon.com/images/I/71lqmkoeosL._SY342_.jpg"
+    },
+    {
+      "nome": "O Apanhador no Campo de Centeio",
+      "id": 14,
+      "sinopse": "A narrativa acompanha Holden Caulfield, um adolescente rebelde que vaga por Nova York refletindo sobre a hipocrisia da sociedade.",
+      "autor": "J.D. Salinger, 1951",
+      "imagem": "https://m.media-amazon.com/images/I/81evtU8kGBL._SY342_.jpg"
+    },
+    {
+      "nome": "Os Miseráveis",
+      "id": 15,
+      "sinopse": "A saga de Jean Valjean, um ex-presidiário tentando se redimir, enquanto é perseguido implacavelmente pelo inspetor Javert.",
+      "autor": "Victor Hugo, 1862",
+      "imagem": "https://m.media-amazon.com/images/I/71L28YvPobL._SY425_.jpg"
+    },
+    {
+      "nome": "Moby Dick",
+      "id": 16,
+      "sinopse": "O capitão Ahab embarca em uma obsessiva caça à baleia branca Moby Dick, em uma jornada de vingança e autodestruição.",
+      "autor": "Herman Melville, 1851",
+      "imagem": "https://m.media-amazon.com/images/I/A1xWjc50fmL._SY425_.jpg"
+    },
+    {
+      "nome": "Drácula",
+      "id": 17,
+      "sinopse": "O conde Drácula, um vampiro imortal, espalha terror e sedução enquanto é caçado por Van Helsing e seus aliados.",
+      "autor": "Bram Stoker, 1897",
+      "imagem": "https://m.media-amazon.com/images/I/61MgodE1s0L._SY342_.jpg"
+    },
+    {
+      "nome": "Frankenstein",
+      "id": 18,
+      "sinopse": "Victor Frankenstein cria um monstro em sua busca pelo conhecimento proibido, levando a consequências aterrorizantes.",
+      "autor": "Mary Shelley, 1818",
+      "imagem": "https://m.media-amazon.com/images/I/91Kz+sC5X0L._SY425_.jpg"
+    }
+  ]
+  

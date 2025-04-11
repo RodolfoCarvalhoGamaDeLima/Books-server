@@ -4,16 +4,16 @@ const {getLivros, getLivro, postLivro, patchLivro, deletaLivro} = require ("../c
 
 const router = Router ()
 
+router.get('/',getLivros)
 
-router.get('/',getLivros )
+router.get('/:id',getLivro)
 
-router.get('/:id',getLivro )
+router.post ('/', postLivro)
 
-router.post ('/', postLivro )
-
-router.patch ('/:id', patchLivro )
+router.patch ('/:id', patchLivro)
 
 router.delete ('/:id', deletaLivro)
+
 
 
 module.exports = router
